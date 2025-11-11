@@ -34,6 +34,7 @@
 | 🗣️ **Jarvis AI Voice Assistant** | Voice assistant using Python + Google Generative AI |
 | 🎵 **Spotify Clone** | Responsive front-end music app using HTML, CSS, JS |
 | ✅ **Flask Todo App** | CRUD Todo app using Flask, SQLAlchemy, Bootstrap |
+| 🤖 **AI Bot** | Auto-reply chatbot built with Python, PyAutoGUI, and Google Gemini |
 
 ---
 
