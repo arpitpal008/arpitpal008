@@ -12,21 +12,19 @@
 
 ## 🚀 About Me
 
-* 🎓 B.Tech in Computer Science & Engineering (2025)
-* 💻 Passionate about Python, Django, and Backend Development
-* 🚀 Built and deployed a **Library Management System** on Render
-* 🌱 Currently improving my Django, REST APIs, and SQL skills
-* 🎯 Open to Python Developer and Django Developer opportunities
-* 📫 **Email:** `arpitpal4554@gmail.com`
+- 🎓 B.Tech in Computer Science & Engineering (2025)
+- 💻 Passionate about Python, Django, and Backend Development
+- 🚀 Built and deployed a **Library Management System** on Render
+- 🌱 Currently improving my Django, REST APIs, and SQL skills
+- 🎯 Open to Python Developer and Django Developer opportunities
+- 📫 **Email:** `arpitpal4554@gmail.com`
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap,mysql,sqlite,git,github,vscode" />
-
 </p>
 
 ---
@@ -35,21 +33,21 @@
 
 ### 📚 Library Management System
 
-* Django
-* SQLite
-* Authentication
-* CRUD Operations
-* Bootstrap UI
+- Django
+- SQLite
+- Authentication
+- CRUD Operations
+- Bootstrap UI
 
 ### 🌐 Live Demo
 
-**🔗 https://library-management-system-django-yx8r.onrender.com/**
+🔗 **https://library-management-system-django-yx8r.onrender.com/**
 
 ---
 
 ### 🤖 AI Voice Assistant
 
-Python based voice assistant with speech recognition and text-to-speech.
+Python-based voice assistant with Speech Recognition and Text-to-Speech.
 
 ---
 
@@ -71,15 +69,6 @@ Responsive music player UI using HTML, CSS and JavaScript.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpal008&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=arpitpal008&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -90,7 +79,17 @@ Responsive music player UI using HTML, CSS and JavaScript.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arpitpal008&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -100,7 +99,7 @@ Responsive music player UI using HTML, CSS and JavaScript.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/arpitpal008/arpitpal008/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </p>
 
@@ -130,6 +129,6 @@ Responsive music player UI using HTML, CSS and JavaScript.
 
 ### ⭐ Building scalable web applications one commit at a time.
 
-![](https://komarev.com/ghpvc/?username=arpitpal008\&style=flat-square\&color=blue)
+<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=flat-square&color=0e75b6" alt="Profile Views"/>
 
 </div>
