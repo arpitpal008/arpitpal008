@@ -80,8 +80,7 @@ Responsive music player UI using HTML, CSS and JavaScript.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arpitpal008&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img height="170" src="https://streak-stats.demolab.com?user=arpitpal008&theme=tokyonight&hide_border=true"/>
 
 </p>
 
