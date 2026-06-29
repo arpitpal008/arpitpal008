@@ -41,7 +41,7 @@
 
 ### 🌐 Live Demo
 
-🔗 **https://library-management-system-django-yx8r.onrender.com/**
+🔗 https://library-management-system-django-yx8r.onrender.com/
 
 ---
 
@@ -66,11 +66,8 @@ Responsive music player UI using HTML, CSS and JavaScript.
 ## 📈 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=arpitpal008&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -78,9 +75,7 @@ Responsive music player UI using HTML, CSS and JavaScript.
 ## 📊 Most Used Languages
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -88,9 +83,7 @@ Responsive music player UI using HTML, CSS and JavaScript.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=arpitpal008&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
@@ -98,9 +91,7 @@ Responsive music player UI using HTML, CSS and JavaScript.
 ## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/arpitpal008/arpitpal008/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
+<img src="https://raw.githubusercontent.com/arpitpal008/arpitpal008/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
@@ -129,6 +120,6 @@ Responsive music player UI using HTML, CSS and JavaScript.
 
 ### ⭐ Building scalable web applications one commit at a time.
 
-<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=flat-square&color=0e75b6" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=flat-square&color=0e75b6"/>
 
 </div>
