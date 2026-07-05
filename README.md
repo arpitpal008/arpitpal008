@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Backend+Developer;Building+Scalable+Web+Applications;REST+API+Developer;Always+Learning+New+Technologies" />
 
-<br>
+<br><br>
 
 <a href="https://portfolio-aaaz.onrender.com/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-000?style=for-the-badge"/>
@@ -80,7 +80,7 @@
 
 A complete web-based Library Management System built with Django.
 
-### Features
+### 🚀 Features
 
 - User Authentication
 - Book Management
@@ -89,7 +89,7 @@ A complete web-based Library Management System built with Django.
 - Responsive Bootstrap UI
 - SQLite Database
 
-### 🚀 Live Demo
+### 🌐 Live Demo
 
 🔗 https://library-management-system-django-yx8r.onrender.com/
 
@@ -99,7 +99,7 @@ A complete web-based Library Management System built with Django.
 
 A Python-based AI Voice Assistant capable of performing voice commands.
 
-### Tech Used
+### 🚀 Tech Used
 
 - Python
 - Speech Recognition
@@ -110,9 +110,9 @@ A Python-based AI Voice Assistant capable of performing voice commands.
 
 ## ✅ Flask Todo App
 
-A simple and clean task management application.
+A clean task management application.
 
-### Tech Used
+### 🚀 Tech Used
 
 - Flask
 - SQLAlchemy
@@ -125,7 +125,7 @@ A simple and clean task management application.
 
 Responsive Spotify-inspired music player interface.
 
-### Tech Used
+### 🚀 Tech Used
 
 - HTML
 - CSS
