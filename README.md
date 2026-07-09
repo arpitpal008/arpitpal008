@@ -1,116 +1,130 @@
 <div align="center">
 
-# 👁️ 𝐀𝐊𝐀𝐓𝐒𝐔𝐊𝐈 • 𝐀𝐑𝐏𝐈𝐓 𝐏𝐀𝐋
+# 👁️ AKATSUKI • ARPIT PAL
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Python+Backend+Developer;Django+Developer;REST+API+Developer;Building+Scalable+Applications;Akatsuki+Mode+Activated+👁️"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:5C0000,100:C00000&text=AKATSUKI%20%E2%80%A2%20ARPIT%20PAL&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000000,100:8B0000&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=🐍+Python+Backend+Developer;⚡+Django+Developer;🔥+REST+API+Developer;☁️+Akatsuki+Cloud+Mode"/>
 
-### 🌑 Python Backend Developer • Django Developer • Backend Enthusiast
-
-<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=for-the-badge&color=red"/>
+<img src="https://komarev.com/ghpvc/?username=arpitpal008&label=Profile+Views&style=for-the-badge&color=red"/>
 
 </div>
 
 ---
 
-# 🌑 About Me
+# ☁️ About Me
 
-> *"People's lives don't end when they die, it ends when they lose faith."* — Itachi Uchiha
+> *"People's lives don't end when they die, it ends when they lose faith."* — **Itachi Uchiha**
 
-- 🎓 B.Tech Computer Science & Engineering (2025)
-- 🐍 Python Backend Developer
-- 🚀 Django Developer
-- 🌐 REST API Developer
-- 🗄️ MySQL & SQLite
-- 🔐 Authentication & CRUD
-- 🌱 Learning Django REST Framework
-- 🎯 Looking for Backend Developer Opportunities
-
----
-
-# ⚔️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,git,github,html,css,js,bootstrap,vscode"/>
-
-</p>
+- 🎓 **B.Tech in Computer Science & Engineering (2025)**
+- 🐍 **Python Backend Developer**
+- 🚀 **Django & REST API Developer**
+- 🗄️ **MySQL • SQLite**
+- 🔐 **Authentication • CRUD Applications**
+- 🌱 **Currently Learning Django REST Framework (DRF)**
+- 💻 **Building Full-Stack Web Applications**
+- 🎯 **Actively Looking for Python Backend Developer Opportunities**
+- ⚡ **Always Learning • Always Building**
 
 ---
-
-# ☁️ Backend Arsenal
+# ⚔️ Tech Arsenal
 
 <div align="center">
 
-| Skills | Level |
-|--------|--------|
-| 🐍 Python | ██████████ |
-| 🎯 Django | █████████ |
-| 🔥 REST APIs | ████████ |
-| 🗄️ SQL | ████████ |
-| 🌐 HTML/CSS | ███████ |
-| ⚡ JavaScript | ██████ |
+<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,git,github,html,css,js,bootstrap,vscode,postman"/>
 
 </div>
 
 ---
 
-# ⚔️ Featured Projects
+# 🔥 Core Expertise
+
+<div align="center">
+
+| 💻 Backend | 🗄️ Database | 🌐 Frontend | 🛠️ Tools |
+|:---------:|:-----------:|:-----------:|:---------:|
+| Python 🐍 | MySQL | HTML5 | Git |
+| Django | SQLite | CSS3 | GitHub |
+| Flask | SQL | JavaScript | VS Code |
+| REST APIs | ORM | Bootstrap | Postman |
+
+</div>
+
+---
+
+# 🚀 Currently Learning
+
+- 🌱 Django REST Framework (DRF)
+- 🔗 REST API Development
+- ⚡ Backend Architecture
+- 🐳 Docker Basics
+- ☁️ Deployment & DevOps Fundamentals
+- 📚 Database Optimization
+
+---
+# 🚀 Featured Projects
 
 ## 📚 Library Management System
 
-✔ Authentication
+> **A complete Django-based Library Management System with authentication, book management and CRUD operations.**
 
-✔ CRUD Operations
+**🛠 Tech Stack**
+- Python
+- Django
+- SQLite
+- Bootstrap
+- HTML • CSS • JavaScript
 
-✔ Bootstrap UI
+**✨ Features**
+- 🔐 User Authentication
+- 📖 Book Management
+- 📚 Issue & Return Books
+- ✏️ CRUD Operations
+- 📱 Responsive UI
 
-✔ SQLite Database
-
-🔗 Live Demo
-
+**🌐 Live Demo**
 https://library-management-system-django-yx8r.onrender.com/
 
 ---
 
 ## 🤖 AI Voice Assistant
 
-🧠 Python
+> **An intelligent desktop voice assistant powered by Python and Gemini AI.**
 
-🎤 Speech Recognition
+**🛠 Tech Stack**
+- Python
+- Speech Recognition
+- Pyttsx3
+- Gemini AI
 
-🔊 Text To Speech
-
-🤖 Gemini AI
+**✨ Features**
+- 🎙 Voice Commands
+- 🤖 AI Chat Support
+- 🔊 Text-to-Speech
+- 🌐 Web Search
 
 ---
 
 ## ✅ Flask Todo App
 
-✔ Flask
+> **A simple and responsive task management application built with Flask.**
 
-✔ SQLAlchemy
+**🛠 Tech Stack**
+- Flask
+- SQLAlchemy
+- SQLite
 
-✔ SQLite
-
-✔ CRUD
+**✨ Features**
+- ➕ Add Tasks
+- ✏️ Update Tasks
+- ❌ Delete Tasks
+- 💾 Database Storage
 
 ---
 
 ## 🎵 Spotify Clone
 
-HTML
-
-CSS
-
-JavaScript
-
-Responsive Design
-
----
-
----
+> **A responsive Spotify-inspired music player interface built
 
 # 📊 GitHub Stats
 
@@ -129,7 +143,7 @@ Responsive Design
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arpitpal008&theme=radical&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=arpitpal008&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -139,7 +153,7 @@ Responsive Design
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitpal008&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arpitpal008&bg_color=0d1117&color=ff4d4d&line=ff0000&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
@@ -159,8 +173,8 @@ Responsive Design
 
 <p align="center">
 
-<a href="mailto:arpitpal4554@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arpitpal008/">
@@ -172,21 +186,21 @@ Responsive Design
 </a>
 
 <a href="https://portfolio-aaaz.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+
 <div align="center">
 
-# ☁️ "Those who forgive themselves... are the truly strong."
+## 👁️ "People's lives don't end when they die, they end when they lose faith."
 
-### — Itachi Uchiha 👁️
+### — Itachi Uchiha 🩸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:000000&height=140&section=footer"/>
 
 </div>
-
 
