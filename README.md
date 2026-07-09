@@ -39,6 +39,79 @@
 
 ---
 
+# ☁️ Backend Arsenal
+
+<div align="center">
+
+| Skills | Level |
+|--------|--------|
+| 🐍 Python | ██████████ |
+| 🎯 Django | █████████ |
+| 🔥 REST APIs | ████████ |
+| 🗄️ SQL | ████████ |
+| 🌐 HTML/CSS | ███████ |
+| ⚡ JavaScript | ██████ |
+
+</div>
+
+---
+
+# ⚔️ Featured Projects
+
+## 📚 Library Management System
+
+✔ Authentication
+
+✔ CRUD Operations
+
+✔ Bootstrap UI
+
+✔ SQLite Database
+
+🔗 Live Demo
+
+https://library-management-system-django-yx8r.onrender.com/
+
+---
+
+## 🤖 AI Voice Assistant
+
+🧠 Python
+
+🎤 Speech Recognition
+
+🔊 Text To Speech
+
+🤖 Gemini AI
+
+---
+
+## ✅ Flask Todo App
+
+✔ Flask
+
+✔ SQLAlchemy
+
+✔ SQLite
+
+✔ CRUD
+
+---
+
+## 🎵 Spotify Clone
+
+HTML
+
+CSS
+
+JavaScript
+
+Responsive Design
+
+---
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
