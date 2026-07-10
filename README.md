@@ -1,269 +1,278 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B0B0B,40:2A0000,75:8B0000,100:D40000&text=ARPIT%20PAL&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
+<img src="assets/hero-banner.png" width="100%">
 
-<h1>👁 AKATSUKI MODE</h1>
+<br><br>
 
-<h3>Python Backend Developer</h3>
-
-<p>
-Django • Flask • REST APIs • MySQL • SQLite
-</p>
-
-<blockquote>
-
-"People's lives don't end when they die...
-they end when they lose faith."
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1500&color=FF1A1A&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Django+%7C+Flask+%7C+REST+API;Building+Scalable+Backend+Systems;AKATSUKI+MODE+ACTIVATED" />
 
 <br>
 
-<b>— Itachi Uchiha</b>
+<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=for-the-badge&color=red"/>
 
-</blockquote>
+<img src="https://img.shields.io/github/followers/arpitpal008?style=for-the-badge&color=red"/>
+
+<img src="https://img.shields.io/github/stars/arpitpal008?style=for-the-badge&color=red"/>
+
+</div>
+
+---
+<!-- ================= ABOUT ================= -->
+
+<h2 align="center">👁️ ABOUT ME</h2>
+
+<table align="center">
+<tr>
+
+<td width="55%">
+
+💻 Python Backend Developer passionate about building scalable backend systems.
+
+🎓 B.Tech in Computer Science & Engineering (2025)
+
+🐍 Strong in Python, Django, Flask & REST APIs
+
+🗄️ Databases: MySQL & SQLite
+
+🔐 Authentication • CRUD • API Development
+
+🌱 Currently learning Django REST Framework (DRF)
+
+🚀 Building real-world backend projects
+
+🎯 Looking for Python Backend Developer opportunities
+
+> *"In the world of code, precision is power."*
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,git,github"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ================= TECH ================= -->
+
+<h2 align="center">⚔️ TECH ARSENAL</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,git,github,html,css,js,bootstrap,vscode,postman,docker,linux"/>
 
 </div>
 
 <br>
 
 <table align="center">
+
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=for-the-badge&color=red"/>
+## 🚀 Backend
+
+- 🐍 Python
+- 🎯 Django
+- ⚡ Flask
+- 🔥 REST APIs
+- 🔐 Authentication
+- 📦 CRUD Applications
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/github/followers/arpitpal008?style=for-the-badge&color=red"/>
+## 🛠 Database & Tools
 
-</td>
-
-<td align="center">
-
-<img src="https://img.shields.io/github/stars/arpitpal008?affiliations=OWNER&style=for-the-badge&color=red"/>
+- 🗄️ MySQL
+- 💾 SQLite
+- 🌿 Git & GitHub
+- 📬 Postman
+- 🐳 Docker (Learning)
+- ☁️ Render Deployment
 
 </td>
 
 </tr>
-</table>
 
-<br>
-
-<!-- ================= ABOUT + TECH + FOCUS ================= -->
-
-<table width="100%">
-<tr>
-
-<td width="33%" valign="top">
-
-## 👤 ABOUT ME
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━
-🎓 B.Tech CSE (2025)
-
-🐍 Python Backend Developer
-
-🚀 Django & REST APIs
-
-🗄️ MySQL • SQLite
-
-🔐 Authentication • CRUD
-
-🌱 Learning DRF
-
-💻 Building Backend Projects
-
-🎯 Open to Python Developer Roles
-
-⚡ Learn • Build • Repeat
-━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</td>
-
-<td width="34%" valign="top">
-
-## ⚔ TECH ARSENAL
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,git,github,postman"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vscode,docker"/>
-
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🎯 CURRENT FOCUS
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━
-✔ Django REST Framework
-
-✔ REST API Development
-
-✔ Backend Architecture
-
-✔ Docker Basics
-
-✔ Deployment
-
-✔ Database Optimization
-
-✔ Interview Preparation
-
-✔ Python Backend Jobs
-━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</td>
-
-</tr>
 </table>
 
 ---
-# 🚀 FEATURED PROJECTS
 
-<table width="100%">
+<h2 align="center">🎯 CURRENT FOCUS</h2>
+
+<div align="center">
+
+| 🔥 Learning | 🚀 Goal |
+|:-----------:|:--------:|
+| Django REST Framework | Backend Developer |
+| API Security | Scalable Applications |
+| Docker | Cloud Deployment |
+| System Design Basics | Production Ready Projects |
+
+</div>
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
+
+<table>
+
 <tr>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-## 📚 Library Management
+## 📚 Library Management System
 
-**Backend Stack**
+Complete Django-based Library Management System.
 
-`Python` `Django` `SQLite`
+### ⚡ Tech
 
-**Features**
+`Python` `Django` `SQLite` `Bootstrap`
+
+### ✨ Features
 
 - 🔐 Authentication
 - 📖 Book Management
-- 🔄 Issue / Return
-- ✏ CRUD
-- 📱 Responsive
+- 📚 Issue / Return
+- ✏️ CRUD Operations
+- 📱 Responsive UI
 
-**🔗 Live**
+### 🌐 Live
 
-https://library-management-system-django-yx8r.onrender.com/
+🔗 https://library-management-system-django-yx8r.onrender.com/
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
-## 🤖 AI Assistant
+## 🤖 AI Voice Assistant
 
-**Backend Stack**
+Desktop AI Assistant powered by Gemini.
 
-`Python` `Gemini`
+### ⚡ Tech
 
-**Features**
+`Python` `SpeechRecognition`
+`Pyttsx3` `Gemini AI`
 
-- 🎤 Voice Commands
-- 🧠 AI Chat
+### ✨ Features
+
+- 🎙 Voice Commands
+- 🤖 AI Chat
 - 🔊 Text To Speech
-- 🌐 Web Search
-
-**🔗 GitHub**
-
-Coming Soon
+- 🌍 Web Search
 
 </td>
 
-<td width="25%" valign="top">
+</tr>
 
-## ✅ Flask Todo
+<tr>
 
-**Backend Stack**
+<td width="50%" valign="top">
 
-`Flask` `SQLite`
+## ✅ Flask Todo App
 
-**Features**
+Minimal Task Manager.
+
+### ⚡ Tech
+
+`Flask`
+`SQLite`
+`SQLAlchemy`
+
+### ✨ Features
 
 - ➕ Add Tasks
-- ✏ Update
+- ✏️ Update
 - ❌ Delete
-- 💾 SQLAlchemy
-
-**🔗 GitHub**
-
-Coming Soon
+- 💾 Database Storage
 
 </td>
 
-<td width="25%" valign="top">
+<td width="50%" valign="top">
 
 ## 🎵 Spotify Clone
 
-**Frontend Stack**
+Responsive Music UI.
 
-`HTML` `CSS` `JavaScript`
+### ⚡ Tech
 
-**Features**
+`HTML`
+`CSS`
+`JavaScript`
 
-- 🎧 Music UI
+### ✨ Features
+
+- 🎵 Music UI
 - 📱 Responsive
-- 🎨 Modern Design
-- ⚡ Interactive
-
-**🔗 GitHub**
-
-Coming Soon
+- 🎧 Spotify Inspired
+- ✨ Modern Design
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 📊 GITHUB DASHBOARD
+<!-- ================= GITHUB DASHBOARD ================= -->
 
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-### ⚡ GitHub Stats
-
-<img src="https://github-readme-stats-lac-delta-14.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🌐 Top Languages
-
-<img src="https://github-readme-stats-lac-delta-14.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔥 Streak
-
-<img src="https://streak-stats.demolab.com?user=arpitpal008&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📈 CONTRIBUTION ACTIVITY
+<h2 align="center">📊 GITHUB DASHBOARD</h2>
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arpitpal008&bg_color=0d1117&color=ff3b3b&line=ff0000&point=ffffff&area=true&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=arpitpal008&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">🏆 ACHIEVEMENTS</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arpitpal008&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/arpitpal008">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/arpitpal008">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-aaaz.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 </p>
 
