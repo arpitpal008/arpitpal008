@@ -1,12 +1,31 @@
 <div align="center">
 
-# 👁️ AKATSUKI • ARPIT PAL
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,40:3B0000,70:8B0000,100:C00000&text=ARPIT%20PAL&fontColor=ffffff&fontSize=58&animation=fadeIn&fontAlignY=34"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:5C0000,100:C00000&text=AKATSUKI%20%E2%80%A2%20ARPIT%20PAL&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=35"/>
+# 👁️ AKATSUKI MODE
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=🐍+Python+Backend+Developer;⚡+Django+Developer;🔥+REST+API+Developer;☁️+Akatsuki+Cloud+Mode"/>
+### 🐍 Python Backend Developer • Django Developer • REST API Developer
 
-<img src="https://komarev.com/ghpvc/?username=arpitpal008&label=Profile+Views&style=for-the-badge&color=red"/>
+> *"People's lives don't end when they die, it ends when they lose faith."*  
+> **— Itachi Uchiha 👁️**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1200&color=FF2D2D&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Django+REST+API+Developer;Building+Scalable+Backend+Applications;Always+Learning+Always+Building"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=for-the-badge&color=red"/>
+
+</div>
+
+---
+
+<div align="center">
+
+| 👁️ Profile | 💻 Repositories | 🚀 Focus | 🌑 Theme |
+|:----------:|:---------------:|:--------:|:---------:|
+| Python Backend | Public Projects | Django REST | Akatsuki |
 
 </div>
 
