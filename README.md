@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/hero-banner.png" width="100%">
+<img src="assets/hero-banner.png" width="100%"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1500&color=FF1A1A&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Django+%7C+Flask+%7C+REST+API;Building+Scalable+Backend+Systems;AKATSUKI+MODE+ACTIVATED" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+%7C+Flask+%7C+REST+API;Building+Scalable+Backend+Applications;Open+to+Work"/>
 
 <br>
 
@@ -17,220 +17,127 @@
 </div>
 
 ---
-<!-- ================= ABOUT ================= -->
 
-<h2 align="center">👁️ ABOUT ME</h2>
+## 👨‍💻 About Me
 
-<table align="center">
-<tr>
+- 🎓 B.Tech in Computer Science & Engineering (2025)
+- 🐍 Python Backend Developer
+- ⚡ Django • Flask • REST API
+- 🗄️ MySQL • SQLite
+- 🌱 Currently learning Django REST Framework
+- 🚀 Building backend web applications
+- 💼 Open to Python Backend Developer opportunities
 
-<td width="55%">
-
-💻 Python Backend Developer passionate about building scalable backend systems.
-
-🎓 B.Tech in Computer Science & Engineering (2025)
-
-🐍 Strong in Python, Django, Flask & REST APIs
-
-🗄️ Databases: MySQL & SQLite
-
-🔐 Authentication • CRUD • API Development
-
-🌱 Currently learning Django REST Framework (DRF)
-
-🚀 Building real-world backend projects
-
-🎯 Looking for Python Backend Developer opportunities
-
-> *"In the world of code, precision is power."*
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,git,github"/>
-
-</td>
-
-</tr>
-</table>
+> **"In the world of code, precision is power."**
 
 ---
 
-<!-- ================= TECH ================= -->
-
-<h2 align="center">⚔️ TECH ARSENAL</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,git,github,html,css,js,bootstrap,vscode,postman,docker,linux"/>
-
-</div>
-
-<br>
-
-<table align="center">
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚀 Backend
-
-- 🐍 Python
-- 🎯 Django
-- ⚡ Flask
-- 🔥 REST APIs
-- 🔐 Authentication
-- 📦 CRUD Applications
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🛠 Database & Tools
-
-- 🗄️ MySQL
-- 💾 SQLite
-- 🌿 Git & GitHub
-- 📬 Postman
-- 🐳 Docker (Learning)
-- ☁️ Render Deployment
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<h2 align="center">🎯 CURRENT FOCUS</h2>
-
-<div align="center">
-
-| 🔥 Learning | 🚀 Goal |
-|:-----------:|:--------:|
-| Django REST Framework | Backend Developer |
-| API Security | Scalable Applications |
-| Docker | Cloud Deployment |
-| System Design Basics | Production Ready Projects |
-
-</div>
-
----
-
-<!-- ================= PROJECTS ================= -->
-
-<h2 align="center">🚀 FEATURED PROJECTS</h2>
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📚 Library Management System
-
-Complete Django-based Library Management System.
-
-### ⚡ Tech
-
-`Python` `Django` `SQLite` `Bootstrap`
-
-### ✨ Features
-
-- 🔐 Authentication
-- 📖 Book Management
-- 📚 Issue / Return
-- ✏️ CRUD Operations
-- 📱 Responsive UI
-
-### 🌐 Live
-
-🔗 https://library-management-system-django-yx8r.onrender.com/
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 AI Voice Assistant
-
-Desktop AI Assistant powered by Gemini.
-
-### ⚡ Tech
-
-`Python` `SpeechRecognition`
-`Pyttsx3` `Gemini AI`
-
-### ✨ Features
-
-- 🎙 Voice Commands
-- 🤖 AI Chat
-- 🔊 Text To Speech
-- 🌍 Web Search
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ✅ Flask Todo App
-
-Minimal Task Manager.
-
-### ⚡ Tech
-
-`Flask`
-`SQLite`
-`SQLAlchemy`
-
-### ✨ Features
-
-- ➕ Add Tasks
-- ✏️ Update
-- ❌ Delete
-- 💾 Database Storage
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎵 Spotify Clone
-
-Responsive Music UI.
-
-### ⚡ Tech
-
-`HTML`
-`CSS`
-`JavaScript`
-
-### ✨ Features
-
-- 🎵 Music UI
-- 📱 Responsive
-- 🎧 Spotify Inspired
-- ✨ Modern Design
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<!-- ================= GITHUB DASHBOARD ================= -->
-
-<h2 align="center">📊 GITHUB DASHBOARD</h2>
+## ⚡ Tech Stack
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,html,css,js,bootstrap,git,github,vscode,postman,docker"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📚 Library Management System
+
+**Tech Stack**
+
+`Python` `Django` `SQLite` `Bootstrap`
+
+**Features**
+
+- 🔐 Authentication
+- 📖 Book Management
+- 🔄 Issue & Return
+- ✏️ CRUD Operations
+
+🌐 **Live Demo:**  
+https://library-management-system-django-yx8r.onrender.com/
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI Voice Assistant
+
+**Tech Stack**
+
+`Python` `Gemini AI` `SpeechRecognition`
+
+**Features**
+
+- 🎙 Voice Commands
+- 🤖 AI Chat
+- 🔊 Text-to-Speech
+- 🌐 Web Search
+
+🔗 GitHub Repository
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ✅ Flask Todo App
+
+**Tech Stack**
+
+`Flask` `SQLite` `SQLAlchemy`
+
+**Features**
+
+- ➕ Add Tasks
+- ✏️ Update Tasks
+- ❌ Delete Tasks
+- 💾 Database Storage
+
+🔗 GitHub Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 Spotify Clone
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+**Features**
+
+- 🎧 Music Player UI
+- 📱 Responsive Design
+- 🎵 Spotify Inspired
+- ✨ Modern Interface
+
+🔗 GitHub Repository
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -238,23 +145,13 @@ Responsive Music UI.
 
 <p align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=arpitpal008&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpal008&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-<h2 align="center">🏆 ACHIEVEMENTS</h2>
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arpitpal008&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-<h2 align="center">🌐 CONNECT WITH ME</h2>
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -262,7 +159,7 @@ Responsive Music UI.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/arpitpal008">
+<a href="https://www.linkedin.com/in/arpitpal008/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -270,10 +167,20 @@ Responsive Music UI.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-aaaz.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://portfolio-aaaz.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
 
 ---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Always learning. Always building. Always improving."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8B0000&height=120&section=footer"/>
+
+</div>
