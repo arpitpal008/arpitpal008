@@ -1,26 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D0D0D,40:300000,100:B30000&text=ARPIT%20PAL&fontColor=FFFFFF&fontSize=62&fontAlignY=35&animation=fadeIn"/>
-
-# 👁️ AKATSUKI MODE ACTIVATED
-
-### 🐍 Python Backend Developer • Django Developer • REST API Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF2D2D&center=true&vCenter=true&width=900&lines=Building+Powerful+Backend+Applications;Python+%7C+Django+%7C+Flask;REST+API+Developer;Always+Learning+Always+Building"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090909,35:2A0000,70:780000,100:C40000&text=ARPIT%20PAL&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=arpitpal008&label=PROFILE+VIEWS&style=for-the-badge&color=red"/>
+<h1>👁️ AKATSUKI BACKEND ENGINEER</h1>
 
-</div>
+<p>
+Python • Django • REST APIs • Flask • MySQL
+</p>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=3500&pause=800&color=FF3030&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Systems;Python+Backend+Developer;Django+REST+Framework;Clean+Code+%7C+Secure+APIs;Always+Learning+Always+Building"/>
 
-<div align="center">
+<br><br>
 
-## ⚡「 Welcome to My GitHub Domain 」
-
-*"In the world of code, consistency defeats talent."*
+<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=for-the-badge&color=red"/>
 
 </div>
 
