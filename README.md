@@ -17,28 +17,38 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+### ⚡ Python Backend Developer
+
+Building scalable backend applications using **Python**, **Django** and **Flask**.
+
 - 🎓 B.Tech in Computer Science & Engineering (2025)
-- 🐍 Python Backend Developer
-- ⚡ Django • Flask • REST API
+- 🐍 Python Backend Development
+- ⚡ Django • Flask • REST APIs
 - 🗄️ MySQL • SQLite
-- 🌱 Currently learning Django REST Framework
-- 🚀 Building backend web applications
-- 💼 Open to Python Backend Developer opportunities
+- 🔐 Authentication • CRUD • ORM
+- 🌱 Currently Learning Django REST Framework (DRF)
+- 🚀 Building Production Ready Backend Projects
+- 💼 Open to Python Backend Developer Opportunities
 
-> **"In the world of code, precision is power."**
+> **Focused • Dedicated • Always Learning**
 
----
+</td>
 
-## ⚡ Tech Stack
+<td width="40%" align="center">
 
-<p align="center">
+<img src="assets/about-banner.png" width="100%" alt="Python Backend Engineer"/>
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,html,css,js,bootstrap,git,github,vscode,postman,docker"/>
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
