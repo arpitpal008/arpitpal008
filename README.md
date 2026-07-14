@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 5d18729 (Update GitHub profile README with professional design)
 <div align="center">
 
 # Hi 👋, I'm Arpit Pal
@@ -140,11 +137,11 @@ A responsive Spotify-inspired music player interface built using modern frontend
 
 ---
 
-# 🐍 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/arpitpal008/arpitpal008/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitpal008&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -198,9 +195,4 @@ A responsive Spotify-inspired music player interface built using modern frontend
 
 *"Code • Learn • Build • Improve"* 🚀
 
-<<<<<<< HEAD
 </div>
-
-=======
-</div>
->>>>>>> 5d18729 (Update GitHub profile README with professional design)
