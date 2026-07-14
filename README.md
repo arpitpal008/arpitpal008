@@ -1,25 +1,24 @@
+```markdown
 <div align="center">
 
-<img src="assets/hero-banner.png" width="100%" alt="Hero Banner"/>
-
-# Hi, I'm Arpit Pal 👋
+# Hi 👋, I'm Arpit Pal
 
 ### Python Backend Developer | Django | Flask | REST APIs
 
-Building scalable backend applications with clean code and practical solutions.
+Building scalable backend applications with clean code, efficient databases, and practical solutions.
 
 <p>
 
-<a href="https://www.linkedin.com/in/arpitpal008/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/arpitpal008">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-aaaz.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-E63946?style=flat-square&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -30,15 +29,11 @@ Building scalable backend applications with clean code and practical solutions.
 
 # 👨‍💻 About Me
 
-<p align="center">
-<img src="assets/about-banner.png" width="320" alt="About Banner"/>
-</p>
+I'm a passionate **Python Backend Developer** who enjoys building scalable and maintainable web applications using **Django**, **Flask**, and **REST APIs**.
 
-I'm a passionate **Python Backend Developer** who enjoys building scalable backend applications using **Django** and **Flask**.
+I enjoy solving real-world problems through clean architecture, efficient database design, and writing readable, maintainable code.
 
-I enjoy solving real-world problems through clean architecture, database design, and efficient backend development.
-
-Currently, I'm focused on building practical projects, strengthening my backend skills, and preparing for Software Developer opportunities.
+Currently, I'm focused on improving my backend development skills by building practical projects and preparing for Software Developer opportunities.
 
 ---
 
@@ -56,11 +51,11 @@ Currently, I'm focused on building practical projects, strengthening my backend 
 
 ## 📚 Library Management System
 
-**Python • Django • SQLite • Bootstrap**
+**Tech Stack:** Python • Django • SQLite • Bootstrap
 
-A complete library management system featuring authentication, book management, issue & return functionality, and CRUD operations.
+A complete library management system with authentication, book management, issue & return functionality, and CRUD operations.
 
-### Features
+### Key Features
 
 - 🔐 User Authentication
 - 📚 Book Management
@@ -76,27 +71,27 @@ https://library-management-system-django-yx8r.onrender.com/
 
 ## 🤖 AI Voice Assistant
 
-**Python • Gemini AI • Speech Recognition**
+**Tech Stack:** Python • Gemini AI • Speech Recognition
 
-A desktop voice assistant capable of performing voice commands, AI conversations, text-to-speech, and web search.
+A desktop voice assistant capable of understanding voice commands, answering questions, performing web searches, and automating everyday tasks.
 
-### Features
+### Key Features
 
 - 🎙 Voice Commands
 - 🤖 AI Chat
 - 🔊 Text-to-Speech
 - 🌐 Web Search
-- ⚡ Automation
+- ⚡ Desktop Automation
 
 ---
 
 ## ✅ Flask Todo App
 
-**Flask • SQLite • SQLAlchemy**
+**Tech Stack:** Flask • SQLite • SQLAlchemy
 
-A lightweight task management application built to understand Flask, SQLAlchemy ORM, and CRUD operations.
+A lightweight task management application built to understand Flask architecture, SQLAlchemy ORM, and CRUD operations.
 
-### Features
+### Key Features
 
 - ➕ Add Tasks
 - ✏️ Update Tasks
@@ -107,15 +102,15 @@ A lightweight task management application built to understand Flask, SQLAlchemy 
 
 ## 🎵 Spotify Clone
 
-**HTML • CSS • JavaScript**
+**Tech Stack:** HTML • CSS • JavaScript
 
-A responsive Spotify-inspired music player interface with modern frontend design.
+A responsive Spotify-inspired music player interface built using modern frontend technologies.
 
-### Features
+### Key Features
 
-- 🎵 Music Player UI
-- 📱 Responsive Layout
-- ✨ Interactive Design
+- 🎵 Modern Music Player UI
+- 📱 Responsive Design
+- ✨ Interactive User Interface
 
 ---
 
@@ -144,7 +139,7 @@ A responsive Spotify-inspired music player interface with modern frontend design
 
 # 🎯 Career Goals
 
-- 🚀 Build production-ready Django applications
+- 🚀 Build production-ready backend applications
 - 🌍 Contribute to Open Source
 - ⚙️ Learn System Design fundamentals
 - 🔗 Master REST API Development
@@ -152,15 +147,11 @@ A responsive Spotify-inspired music player interface with modern frontend design
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Let's Connect
 
-<div align="center">
+<p align="center">
 
-<img src="assets/contact.png" width="100%" alt="Contact Banner"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/arpitpal008/">
+<a href="https://www.linkedin.com/in/arpitpal008">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -172,14 +163,15 @@ A responsive Spotify-inspired music player interface with modern frontend design
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+### ⭐ Thanks for visiting my profile!
 
-**"Code. Learn. Build. Repeat." 🚀**
+**Code • Learn • Build • Improve 🚀**
 
 </div>
+```
