@@ -1,184 +1,183 @@
 <div align="center">
 
-<img src="assets/hero-banner.png" width="100%"/>
+<img src="assets/hero-banner.png" width="100%" alt="Hero Banner"/>
 
-<br>
+# Hi, I'm Arpit Pal 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Django+%7C+Flask+%7C+REST+API;Building+Scalable+Backend+Applications;Open+to+Work"/>
+### Python Backend Developer | Django | Flask | REST APIs
 
-<br>
+Building scalable backend applications with clean code and practical solutions.
 
-<img src="https://komarev.com/ghpvc/?username=arpitpal008&style=for-the-badge&color=red"/>
+<p>
+<a href="https://www.linkedin.com/in/arpitpal008/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/arpitpal008?style=for-the-badge&color=red"/>
+<a href="https://portfolio-aaaz.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-E63946?style=flat-square&logo=google-chrome&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/arpitpal008?style=for-the-badge&color=red"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 </div>
 
 ---
-## 👨‍💻 About Me
 
-<table>
-<tr>
+# 👨‍💻 About Me
 
-<td width="60%" valign="top">
+<p align="center">
+<img src="assets/about-banner.png" width="320"/>
+</p>
 
-### ⚡ Python Backend Developer
+I'm a passionate **Python Backend Developer** who enjoys building scalable web applications using Django and Flask.
 
-Building scalable backend applications using **Python**, **Django** and **Flask**.
+I love solving real-world problems through clean architecture, database design, and efficient backend development.
 
-- 🎓 B.Tech in Computer Science & Engineering (2025)
-- 🐍 Python Backend Development
-- ⚡ Django • Flask • REST APIs
-- 🗄️ MySQL • SQLite
-- 🔐 Authentication • CRUD • ORM
-- 🌱 Currently Learning Django REST Framework (DRF)
-- 🚀 Building Production Ready Backend Projects
-- 💼 Open to Python Backend Developer Opportunities
-
-> **Focused • Dedicated • Always Learning**
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="assets/about-banner.png" width="100%" alt="Python Backend Engineer"/>
-
-</td>
-
-</tr>
-</table>
+Currently, I'm focused on improving my backend engineering skills while building practical projects and preparing for Software Developer opportunities.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Tech Stack
 
-<table>
-<tr>
+<p align="center">
 
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=python,django,flask,mysql,sqlite,html,css,js,bootstrap,git,github,postman,vscode,docker"/>
 
-### 📚 Library Management System
+</p>
 
-**Tech Stack**
+---
 
-`Python` `Django` `SQLite` `Bootstrap`
+# 📌 Featured Projects
+
+<p align="center">
+<img src="assets/projects-banner.png" width="320"/>
+</p>
+
+## 📚 Library Management System
+
+**Python • Django • SQLite • Bootstrap**
+
+A complete library management system featuring authentication, book management, issue-return functionality, and CRUD operations.
 
 **Features**
 
-- 🔐 Authentication
-- 📖 Book Management
-- 🔄 Issue & Return
-- ✏️ CRUD Operations
+- Authentication
+- CRUD Operations
+- Book Issue & Return
+- Responsive UI
 
-🌐 **Live Demo:**  
+🔗 **Live Demo**
 https://library-management-system-django-yx8r.onrender.com/
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Voice Assistant
-
-**Tech Stack**
-
-`Python` `Gemini AI` `SpeechRecognition`
-
-**Features**
-
-- 🎙 Voice Commands
-- 🤖 AI Chat
-- 🔊 Text-to-Speech
-- 🌐 Web Search
-
-🔗 GitHub Repository
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ✅ Flask Todo App
-
-**Tech Stack**
-
-`Flask` `SQLite` `SQLAlchemy`
-
-**Features**
-
-- ➕ Add Tasks
-- ✏️ Update Tasks
-- ❌ Delete Tasks
-- 💾 Database Storage
-
-🔗 GitHub Repository
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎵 Spotify Clone
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-**Features**
-
-- 🎧 Music Player UI
-- 📱 Responsive Design
-- 🎵 Spotify Inspired
-- ✨ Modern Interface
-
-🔗 GitHub Repository
-
-</td>
-
-</tr>
-</table>
+🔗 **Source Code**
+https://github.com/arpitpal008
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI Voice Assistant
+
+**Python • Gemini AI • Speech Recognition**
+
+Desktop voice assistant capable of answering questions, automating tasks, and interacting using speech.
+
+**Features**
+
+- Voice Commands
+- AI Chat
+- Text-to-Speech
+- Web Search
+
+🔗 GitHub Repository
+
+---
+
+## ✅ Flask Todo App
+
+**Flask • SQLite • SQLAlchemy**
+
+Simple task management application built for understanding Flask ORM and CRUD operations.
+
+**Features**
+
+- Create Tasks
+- Update Tasks
+- Delete Tasks
+
+🔗 GitHub Repository
+
+---
+
+## 🎵 Spotify Clone
+
+**HTML • CSS • JavaScript**
+
+Responsive Spotify-inspired frontend with modern UI design.
+
+**Features**
+
+- Responsive Layout
+- Music Player UI
+- Interactive Components
+
+🔗 GitHub Repository
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpal008&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌱 Currently Learning
+
+- Django REST Framework (DRF)
+- Docker
+- REST API Best Practices
+- Authentication & Authorization
+- Backend Optimization
+- Data Structures & Algorithms
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready Django applications
+- Contribute to Open Source
+- Learn System Design fundamentals
+- Master REST API Development
+- Get placed as a Python Backend Developer
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="assets/contact-banner.png" width="320"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/arpitpal008/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/arpitpal008">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://portfolio-aaaz.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-aaaz.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -187,10 +186,8 @@ https://library-management-system-django-yx8r.onrender.com/
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile ❤️
 
-*"Always learning. Always building. Always improving."* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:8B0000&height=120&section=footer"/>
+*"Code. Learn. Build. Repeat."*
 
 </div>
