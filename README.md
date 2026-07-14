@@ -53,10 +53,6 @@ Currently, I'm focused on improving my backend engineering skills while building
 
 # 📌 Featured Projects
 
-<p align="center">
-<img src="assets/projects-banner.png" width="320"/>
-</p>
-
 ## 📚 Library Management System
 
 **Python • Django • SQLite • Bootstrap**
