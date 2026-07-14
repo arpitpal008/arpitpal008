@@ -160,7 +160,7 @@ Responsive Spotify-inspired frontend with modern UI design.
 
 <p align="center">
 
-<img src="assets/contact-banner.png" width="320"/>
+<img src="assets/contact.png" width="320"/>
 
 <br><br>
 
