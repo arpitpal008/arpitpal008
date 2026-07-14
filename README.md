@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 # Hi 👋, I'm Arpit Pal
@@ -174,4 +174,4 @@ A responsive Spotify-inspired music player interface built using modern frontend
 **Code • Learn • Build • Improve 🚀**
 
 </div>
-```
+
