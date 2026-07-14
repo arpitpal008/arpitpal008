@@ -158,12 +158,12 @@ Responsive Spotify-inspired frontend with modern UI design.
 
 # 🤝 Let's Connect
 
-<p align="center">
-
-<img src="assets/contact.png" width="320"/>
 
 <br><br>
 <div align= "center>
+<p align="center">
+
+<img src="assets/contact.png" width="320"/>
 <a href="https://www.linkedin.com/in/arpitpal008/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
