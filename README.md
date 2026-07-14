@@ -163,7 +163,7 @@ Responsive Spotify-inspired frontend with modern UI design.
 <img src="assets/contact.png" width="320"/>
 
 <br><br>
-
+<div align= "center>
 <a href="https://www.linkedin.com/in/arpitpal008/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -175,6 +175,7 @@ Responsive Spotify-inspired frontend with modern UI design.
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</div>
 
 </p>
 
