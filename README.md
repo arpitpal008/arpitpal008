@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 5d18729 (Update GitHub profile README with professional design)
 <div align="center">
 
 # Hi 👋, I'm Arpit Pal
@@ -17,11 +20,13 @@ Building scalable backend applications with clean code, efficient databases, and
 <img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+![](https://komarev.com/ghpvc/?username=arpitpal008&style=for-the-badge&color=blue)
 
 </div>
 
@@ -31,9 +36,12 @@ Building scalable backend applications with clean code, efficient databases, and
 
 I'm a passionate **Python Backend Developer** who enjoys building scalable and maintainable web applications using **Django**, **Flask**, and **REST APIs**.
 
-I enjoy solving real-world problems through clean architecture, efficient database design, and writing readable, maintainable code.
-
-Currently, I'm focused on improving my backend development skills by building practical projects and preparing for Software Developer opportunities.
+- 🎓 B.Tech in Computer Science & Engineering (2025)
+- 💻 Passionate about Backend Development
+- 🚀 Building Real-World Projects
+- 🌱 Currently Learning Django REST Framework & Docker
+- 📚 Improving DSA & Problem Solving
+- 💼 Open to Python Backend Developer Opportunities
 
 ---
 
@@ -51,11 +59,11 @@ Currently, I'm focused on improving my backend development skills by building pr
 
 ## 📚 Library Management System
 
-**Tech Stack:** Python • Django • SQLite • Bootstrap
+**Python • Django • SQLite • Bootstrap**
 
-A complete library management system with authentication, book management, issue & return functionality, and CRUD operations.
+A complete library management system featuring authentication, book management, issue & return functionality, and CRUD operations.
 
-### Key Features
+### Features
 
 - 🔐 User Authentication
 - 📚 Book Management
@@ -71,11 +79,11 @@ https://library-management-system-django-yx8r.onrender.com/
 
 ## 🤖 AI Voice Assistant
 
-**Tech Stack:** Python • Gemini AI • Speech Recognition
+**Python • Gemini AI • Speech Recognition**
 
-A desktop voice assistant capable of understanding voice commands, answering questions, performing web searches, and automating everyday tasks.
+A desktop voice assistant capable of understanding voice commands, answering questions, performing web searches, and automating daily tasks.
 
-### Key Features
+### Features
 
 - 🎙 Voice Commands
 - 🤖 AI Chat
@@ -87,11 +95,11 @@ A desktop voice assistant capable of understanding voice commands, answering que
 
 ## ✅ Flask Todo App
 
-**Tech Stack:** Flask • SQLite • SQLAlchemy
+**Flask • SQLite • SQLAlchemy**
 
-A lightweight task management application built to understand Flask architecture, SQLAlchemy ORM, and CRUD operations.
+A lightweight task management application built to understand Flask architecture and SQLAlchemy ORM.
 
-### Key Features
+### Features
 
 - ➕ Add Tasks
 - ✏️ Update Tasks
@@ -102,15 +110,15 @@ A lightweight task management application built to understand Flask architecture
 
 ## 🎵 Spotify Clone
 
-**Tech Stack:** HTML • CSS • JavaScript
+**HTML • CSS • JavaScript**
 
 A responsive Spotify-inspired music player interface built using modern frontend technologies.
 
-### Key Features
+### Features
 
-- 🎵 Modern Music Player UI
+- 🎵 Music Player UI
 - 📱 Responsive Design
-- ✨ Interactive User Interface
+- ✨ Interactive Interface
 
 ---
 
@@ -118,9 +126,25 @@ A responsive Spotify-inspired music player interface built using modern frontend
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arpitpal008&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitpal008&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=arpitpal008&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/arpitpal008/arpitpal008/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 
 </p>
 
@@ -134,20 +158,21 @@ A responsive Spotify-inspired music player interface built using modern frontend
 - Authentication & Authorization
 - Backend Optimization
 - Data Structures & Algorithms
+- System Design Basics
 
 ---
 
 # 🎯 Career Goals
 
-- 🚀 Build production-ready backend applications
+- 🚀 Build Production-Ready Backend Applications
 - 🌍 Contribute to Open Source
-- ⚙️ Learn System Design fundamentals
-- 🔗 Master REST API Development
-- 💼 Start my career as a Python Backend Developer
+- ⚙️ Master REST API Development
+- ☁️ Learn Cloud Deployment
+- 💼 Start My Career as a Python Backend Developer
 
 ---
 
-# 📫 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -159,7 +184,7 @@ A responsive Spotify-inspired music player interface built using modern frontend
 <img src="https://img.shields.io/badge/Portfolio-E63946?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -169,9 +194,13 @@ A responsive Spotify-inspired music player interface built using modern frontend
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for Visiting!
 
-**Code • Learn • Build • Improve 🚀**
+*"Code • Learn • Build • Improve"* 🚀
 
+<<<<<<< HEAD
 </div>
 
+=======
+</div>
+>>>>>>> 5d18729 (Update GitHub profile README with professional design)
